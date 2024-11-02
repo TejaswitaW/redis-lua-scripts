@@ -13,6 +13,7 @@ print(tb_one["name"],tb_one["age"])
 tb_one.city = "LA"
 print(tb_one.city)
 -- LA
+-- Update key's value
 tb_one.city = "CA"
 print(tb_one.city)
 -- CA
